@@ -1,0 +1,14 @@
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\bin\Debug\MenuContextual.exe.config
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\bin\Debug\MenuContextual.exe
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\bin\Debug\MenuContextual.pdb
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.csprojAssemblyReference.cache
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.Form1.resources
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.Properties.Resources.resources
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.csproj.GenerateResource.cache
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.csproj.CoreCompileInputs.cache
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.exe
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.pdb
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\bin\Debug\MenuContextual.exe.manifest
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\bin\Debug\MenuContextual.application
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.exe.manifest
+C:\Users\Ras\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.application

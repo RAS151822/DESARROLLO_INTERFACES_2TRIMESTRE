@@ -1,0 +1,9 @@
+c:\users\ras\source\repos\ButtonRas\ButtonRas\bin\Debug\ButtonRas.dll
+c:\users\ras\source\repos\ButtonRas\ButtonRas\bin\Debug\ButtonRas.pdb
+c:\users\ras\source\repos\ButtonRas\ButtonRas\obj\Debug\ButtonRas.csprojAssemblyReference.cache
+c:\users\ras\source\repos\ButtonRas\ButtonRas\obj\Debug\ButtonRas.ButtonRas.resources
+c:\users\ras\source\repos\ButtonRas\ButtonRas\obj\Debug\ButtonRas.Properties.Resources.resources
+c:\users\ras\source\repos\ButtonRas\ButtonRas\obj\Debug\ButtonRas.csproj.GenerateResource.cache
+c:\users\ras\source\repos\ButtonRas\ButtonRas\obj\Debug\ButtonRas.csproj.CoreCompileInputs.cache
+c:\users\ras\source\repos\ButtonRas\ButtonRas\obj\Debug\ButtonRas.dll
+c:\users\ras\source\repos\ButtonRas\ButtonRas\obj\Debug\ButtonRas.pdb

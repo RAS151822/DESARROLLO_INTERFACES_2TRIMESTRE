@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MenuContextual.exe" version="1.0.0.0" publicKeyToken="647e087f918c4ea8" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="iconoBlockdenotas.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MenuContextual" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MenuContextual.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de UAC
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por uno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar Virtualización de archivos y Registro para compatibilidad con 
+         versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MenuContextual.exe" size="185304">
+      <assemblyIdentity name="MenuContextual" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>yus3pNTJ9XSAPaMwei9+1NcZXTtzw/TUefateWuievk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="iconoBlockdenotas.ico" size="21924">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bSGwJLKctCJPiGPwHhBc69+8jdm/Xd4TTj+etbjt1D8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="MenuContextual.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-L8HTOPRS\Ras" issuerKeyHash="724dbbaf5fcec4f5e917b9d39e873b6b4a25a3b4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>RA8xXch5BXocn65NjvXv9+TO7jSCXhKTBqx0XzRyRu8=</DigestValue></Reference></SignedInfo><SignatureValue>n6GtbDDeFy4QLiLEMvJBDcPaOQAZazGBxhpEnxlbYtBFdNPcYdFXySetwX6ptiqtFjQlK/NvlWZfldV8OnKLyLn85PYAVyKvAtxgqVdtcwoSzMDe0cGe1sGqyx0X3LL3gFl6ZLvhudwJPBqLn9pZOL9vNVW6MFVzfz4o6OHwmQY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rptOJRr/OdxdXiTar4MaV4HDDaF+ONHmZW76KggVieQ/vW3lGChh65ZmtYwLFBIZPy21Q7D3KmxvgFXYAHl0iQmXH0MLWHL2DwTYwoiMH94JjfCdt7HrTXehdbhRq4Um+zmf9fWXNdkW85OccSqWdvccMvbVNTQ9T+xXWHRnIu0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ef4672345f74ac0693125e8234eecee4f7eff58e4dae9f1c7a0579c85d310f44" Description="" Url=""><as:assemblyIdentity name="MenuContextual.exe" version="1.0.0.0" publicKeyToken="647e087f918c4ea8" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-L8HTOPRS\Ras</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>J38ZEtVCUzRcA45cFEONe1d+EzJd7e28Xg1cQeQmbag=</DigestValue></Reference></SignedInfo><SignatureValue>ZpdXC3f+OKckmtIKAIGDOaWs8551B/wPJ5Mz8tCMvC5316gh++9nbRSj0CSHrDGo91WfwjNT5716cU+ua8sZp8P+KYmDrfH8mIiwnC4awKuNkGobu7pG2ke2lOIPnckwMwXxWRwATobSWk2y2awDIJKztSDPlo99mwSeYlNXRzo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rptOJRr/OdxdXiTar4MaV4HDDaF+ONHmZW76KggVieQ/vW3lGChh65ZmtYwLFBIZPy21Q7D3KmxvgFXYAHl0iQmXH0MLWHL2DwTYwoiMH94JjfCdt7HrTXehdbhRq4Um+zmf9fWXNdkW85OccSqWdvccMvbVNTQ9T+xXWHRnIu0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQN8eK1OXbfodO6Z3MTlYatzANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYATABBAFAAVABPAFAALQBMADgASABUAE8AUABSAFMAXABSAGEAczAeFw0xOTEyMTkxMTE1MzdaFw0yMDEyMTgxNzE1MzdaMDExLzAtBgNVBAMeJgBMAEEAUABUAE8AUAAtAEwAOABIAFQATwBQAFIAUwBcAFIAYQBzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCum04lGv853F1eJNqvgxpXgcMNoX440eZlbvoqCBWJ5D+9beUYKGHrlma1jAsUEhk/LbVDsPcqbG+AVdgAeXSJCZcfQwtYcvYPBNjCiIwf3gmN8J23setNd6F1uFGrhSb7OZ/19Zc12Rbzk5xxKpZ29xwy9tU1ND1P7FdYdGci7QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAIei/f6dzApJ13FtnE30XRPeQvK8W8DQTzDGS+Vk5BAgfs86IGDFzbMIlcLYHfWEHfUD9KWKUZSufcSZSvbvWG0C8fTffSbY6HKS1iAlo+0yWIbqb7PQR/uj9TJFZgFqg+CHRbpcvl/EZ/vpEsHe24BcFWXct98Si6kc7L1fnJdX</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,10 @@
+C:\Users\Ras\source\repos\AyudaContextualHelpProvider\AyudaContextualHelpProvider\bin\Debug\AyudaContextualHelpProvider.exe.config
+C:\Users\Ras\source\repos\AyudaContextualHelpProvider\AyudaContextualHelpProvider\bin\Debug\AyudaContextualHelpProvider.exe
+C:\Users\Ras\source\repos\AyudaContextualHelpProvider\AyudaContextualHelpProvider\bin\Debug\AyudaContextualHelpProvider.pdb
+C:\Users\Ras\source\repos\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.csprojAssemblyReference.cache
+C:\Users\Ras\source\repos\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.Form1.resources
+C:\Users\Ras\source\repos\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.Properties.Resources.resources
+C:\Users\Ras\source\repos\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.csproj.GenerateResource.cache
+C:\Users\Ras\source\repos\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.csproj.CoreCompileInputs.cache
+C:\Users\Ras\source\repos\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.exe
+C:\Users\Ras\source\repos\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.pdb

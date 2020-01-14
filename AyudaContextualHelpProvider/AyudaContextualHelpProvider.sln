@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyudaContextualHelpProvider", "AyudaContextualHelpProvider\AyudaContextualHelpProvider.csproj", "{941C6B85-2A9C-4427-9EE0-DFD10504523F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941C6B85-2A9C-4427-9EE0-DFD10504523F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941C6B85-2A9C-4427-9EE0-DFD10504523F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941C6B85-2A9C-4427-9EE0-DFD10504523F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941C6B85-2A9C-4427-9EE0-DFD10504523F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BB2238C-AF2E-4CB9-9E85-DC92AF37EA02}
+	EndGlobalSection
+EndGlobal
